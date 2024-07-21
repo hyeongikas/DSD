@@ -58,7 +58,7 @@ Contributions are welcome! If you'd like to help improve DSD, please fork this r
 ## License
 --------
 
-DSD is licensed under the MIT License. See `LICENSE` for details.
+DSD is licensed under the BSD 3-Clause License. See `LICENSE` for details.
 
 <a name="acknowledgments"></a>
 
